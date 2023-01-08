@@ -28,6 +28,89 @@
   color: white;
 }
 
+/* Card */
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  margin: 45px 0 0 36px;
+  border-radius: 0 5px 5px 0;
+  background-color: #ff565680;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 478px;
+}
+
+.card > img {
+  max-width: 200px;
+  max-height: 225px;
+  border-radius: 5px 0 0 5px;
+  width: auto;
+  height: auto;
+}
+
+/*card-content*/
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.card-content > h1 {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.card-content > p {
+  margin: 0px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+}
+
+#date {
+  margin: 14px 0 9px 0;
+}
+
+/*card-top*/
+
+.card-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: left;
+  margin: 0 0 7px 0;
+}
+
+.card-top > i {
+  color: rgb(255, 66, 66);
+  margin: 0 4px 0 0;
+}
+
+.card-top > p {
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.17em;
+  margin: 0;
+}
+
+.card-top > a {
+  color: #7158c4;
+  margin: 0 0 0 12px;
+  font-size: 12.5px;
+}
+
+
 /* Footer */
 
 #footer {
