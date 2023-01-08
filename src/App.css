@@ -17,6 +17,7 @@
 
 .header {
   background-color: #F55A5A;
+  box-shadow: 0px 1.5px #f55a5a72;
   display: flex;
   align-items: center;
   justify-content: center;
