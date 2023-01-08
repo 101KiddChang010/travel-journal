@@ -15,7 +15,7 @@ export default [
         mapLink: "https://www.google.com/maps/place/Toronto+Sign/@43.6523736,-79.3835971,15z/data=!4m2!3m1!1s0x0:0xa38e49d20bc9400f?sa=X&ved=2ahUKEwiNu8ekxbf8AhXUkIkEHcu_ASwQ_BJ6BQiYARAI",
         touristAttraction: "Toronto Sign",
         date: "December 2019",
-        description: "10-foot-tall, light-up letters that spell “Toronto,” set against a city-skyline backdrop.",
+        description: "The Toronto Sign is an illuminated three-dimensional sign in Nathan Phillips Square in Toronto, Ontario, Canada, that spells the city's name. 10-foot-tall, light-up letters that spell “Toronto,” set against a city-skyline backdrop.",
     },
     {
         key: 3,
@@ -24,6 +24,6 @@ export default [
         mapLink: "https://www.google.com/maps/place/Cloud+Gate/@41.8826572,-87.6233039,15z/data=!4m2!3m1!1s0x0:0x64d3fefce3a4a51?sa=X&ved=2ahUKEwjP7o76xbf8AhUljIkEHbixBNMQ_BJ6BQiEARAI",
         touristAttraction: "Cloud Gate",
         date: "May 2012",
-        description: "Huge outdoor sculpture shaped like a bean & allowing for views from its many mirrored sides.",
+        description: "Cloud Gate, aka “The Bean”, is one of Chicago's most popular sights. The monumental work of art anchors downtown Millennium Park and reflects the city's famous skyline and the surrounding green space.",
     }
 ]
