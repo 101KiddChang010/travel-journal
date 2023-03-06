@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/101KiddChang010/travel-journal">
-    <img src="https://101kiddchang010.github.io/images/travel-journal.png" alt="Photo of website" width="80" height="80">
+    <img src="https://101kiddchang010.github.io/images/travel-journal.png" alt="Photo of website" width="700">
   </a>
 
 <h3 align="center">My Travel Journal</h3>
